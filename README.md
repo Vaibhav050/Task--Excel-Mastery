@@ -89,24 +89,24 @@ Workbooks can contain multiple sheets, navigated using sheet tabs.
 
 #### Shortcut Keys:
 
-Ctrl + C: Copy
-Ctrl + V: Paste
-Ctrl + X: Cut
-Ctrl + Z: Undo
-Ctrl + S: Save
-Ctrl + A: Select All
-Ctrl + F: Find
-Ctrl + H: Replace
-Ctrl + B: Bold
-Ctrl + I: Italic
-Ctrl + U: Underline
-Ctrl + P: Print
-Ctrl + Shift + L: Toggle Filters
-Ctrl + Arrow Keys: Move to the edge of data regions
-Shift + Space: Select entire row
-Ctrl + Space: Select entire column
-Alt + Enter: Insert line break within a cell
-F2: Edit the active cell
+#### Ctrl + C: Copy
+#### Ctrl + V: Paste
+#### Ctrl + X: Cut
+#### Ctrl + Z: Undo
+#### Ctrl + S: Save
+#### Ctrl + A: Select All
+#### Ctrl + F: Find
+#### Ctrl + H: Replace
+#### Ctrl + B: Bold
+#### Ctrl + I: Italic
+#### Ctrl + U: Underline
+#### Ctrl + P: Print
+#### Ctrl + Shift + L: Toggle Filters
+#### Ctrl + Arrow Keys: Move to the edge of data regions
+#### Shift + Space: Select entire row
+#### Ctrl + Space: Select entire column
+#### Alt + Enter: Insert line break within a cell
+#### F2: Edit the active cell
 
 #### Summary
 This guide provides a comprehensive overview of the key components and features of Microsoft Excel, including the title bar, search bar, quick access toolbar, file menu, ribbon tabs and groups, name box, formula bar, cell address, zooming, handling large data, text alignment, using the formula bar, status bar, range of cells, sheet navigation, and important shortcut keys. Understanding these elements will help you navigate and use Excel more effectively
