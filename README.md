@@ -3,7 +3,7 @@ Progress of Excel course by Staish Dhawale from day 1 to day 30.
 ### INTRODUCTION TO EXCEL MASTERY COURSE 
 #### MODULE-1
 1.1 - Microsoft Excel Introduction
-![WELCOME TO EXCEL WORLD FUN WAY LEARNING](URL_to_image)
+![WELCOME TO EXCEL WORLD FUN WAY LEARNING](https://github.com/Vaibhav050/Task--Excel-Mastery/blob/main/MS_EXCEL_INTRODUCTION.png)
 
 1.2 - Data Entry in Excel
 
